@@ -1561,7 +1561,7 @@ h2.home-blog-title {
 }
 .hero .hero-inner .inner {
   max-width: 1400px;
-  display: block;
+  display: inherit;
   margin: 0 auto;
 }
 .hero .hero-inner span.border {
@@ -2286,7 +2286,7 @@ a:hover, a:hover, .meta a,
 }
 
 .hero {
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 /* Borders */
