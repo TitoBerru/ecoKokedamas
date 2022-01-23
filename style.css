@@ -3441,7 +3441,7 @@ header.header nav,
 /* ==========================================================================
    14. Media Queries
    ========================================================================== */
-@media screen and (min-width: 33.75em) {
+@media screen and (min-width: 540px) {
   /* 540px */
   .related-posts .posts {
     display: table;
@@ -3463,7 +3463,7 @@ header.header nav,
     padding-top: 0;
   }
 }
-@media screen and (min-width: 40em) {
+@media screen and (min-width: 630px) {
   /* 640px */
   .home-sticky {
     padding-bottom: 0;
